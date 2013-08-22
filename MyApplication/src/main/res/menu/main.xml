@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_settings"
+        android:title="Inställningar"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:title="Om"
+        android:id="@+id/about" />
+</menu>

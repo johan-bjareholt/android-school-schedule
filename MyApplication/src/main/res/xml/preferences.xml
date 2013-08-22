@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:title="Person nr"
+        android:key="textbox_personnr"
+        android:summary="Ange ditt personnr (YYMMDD-XXXX)">
+    </EditTextPreference>
+    <CheckBoxPreference
+        android:title="Visa dagligt schema"
+        android:defaultValue="false"
+        android:key="checkbox_daily"
+        android:summary="Kryssa i om du vill visa daligt schema istället för veckligt"
+    />
+    <ListPreference
+        android:title="Periodvis schema eller veckoschema?"
+        android:key="list_period"
+        android:summary="Hejhej"
+        android:entries="@array/period_list"
+        android:entryValues="@array/period_list_values">
+    </ListPreference>
+</PreferenceScreen>

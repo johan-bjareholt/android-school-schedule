@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="period_list">
+        <item>Denna vecka</item>
+        <item>Period 1</item>
+        <item>Period 2</item>
+    </string-array>
+
+    <string-array name="period_list_values">
+        <item>Weekly</item>
+        <item>P1</item>
+        <item>P2</item>
+    </string-array>
+
+</resources>

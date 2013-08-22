@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377156346000 359 fdc73ac1e1da2010356e9bbf147ce969332b18da /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/BuildConfig.class
+1377188387000 482 4b228ae25379fbc0c989a6f9cb5881251363dfd5 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R$dimen.class
+1377188387000 428 f8a2825740740ca2a4dfbbf89523eb003b0f52c7 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R$drawable.class
+1377188387000 361 dc9936a8e8dfae25598a0e98f31047a84d93e4cf /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R$attr.class
+1377200430000 853 10b354897334804acfcbd5f96d96f711ecdf29ba /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/johan/Downloads/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1377188387000 544 f223aaf244bb114576ee387ec707b65ec75895ce /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R$id.class
+1377200430000 413 41ea74cae4eb2bd2557365a4c9df94a3d2fba02c /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R$xml.class
+1377200430000 452 b74be9c880973069fa7a98800c7e185c23a7895d /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R$style.class
+1377188387000 461 5a53ba363b04e3d0d25834f1b6baa53123ba7d34 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R$array.class
+1377199362000 1487 06715f96b38f7c24463e412c819eb6bc2c05203b /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/MainActivity$DummySectionFragment.class
+1377188387000 409 2d604fff78a93a61bd43fb7fa450f8f387488db2 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R$menu.class
+1377171459000 557 456fe75141103e9262e1ced55feeba2473126b6e /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/Preferences.class
+1377199554000 4413 223a015a3fd982abf621b4ec0f32302a1aeddac4 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/MainActivity.class
+1377188387000 467 d0df614a5c7294b2f41e7be79e27db9e26311bec /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R$layout.class
+1377200430000 651 856ed7f232e6f06176bb84a607ab14ef77d40631 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/classes/debug/com/example/myapplication/R$string.class

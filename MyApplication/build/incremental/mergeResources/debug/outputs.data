@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377171455000 433 30fba2b356c6dc757d6190829a08ff4a6bf17bf2 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/menu/main.xml
+1377156340000 356 eb6508ec7f639d60a9cf8eadad32a24d6489bcc3 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/values-v14/values.xml
+1377156340000 273 33928c0d4862aa39354bdcaa54a5797e8a570f02 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/values-sw720dp-land/values.xml
+1377156341000 1085 77e0d22b10a6fb03e44cf9df0cab2d476a5bd6df /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1377156341000 1948 13434b1839c84d6e066a580d0c2759d7b5c9a555 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1377156341000 5213 4acca22c768e6b9dd69634348d7579c66b458936 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1377156341000 810 3c040883a6f9b73e63fa70eeec52f7b3ed52b068 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/layout/fragment_main_dummy.xml
+1377192596000 961 4c078203747904c387eedd1ec806c5a597f8614e /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/xml/preferences.xml
+1377200428000 1846 6534adc389c5e72a5aa54dc22a0787f0d83760d3 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/values/values.xml
+1377156341000 2898 c118c2831e6b63c116e381456792c669d534d6a5 /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1377156340000 342 50c935e3603c00df9a9a4bd1a8855d6a1371566b /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/values-v11/values.xml
+1377157900000 664 d13174de60d6a53dcee25486c4f342f76f20d11b /home/johan/Dropbox/Programmering/Android Studio/Schema/Schema2/MyApplication/build/res/all/debug/layout/activity_main.xml
